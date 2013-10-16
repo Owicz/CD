@@ -30,9 +30,10 @@ public class CD {
     
     @Override
     public String toString(){
-        String nl = System.getProperty("line.seperator");
-        return "CD"+nl
-                +"title:"+title
+        String nl = System.getProperty("line.separator");
+        return getClass().getSimpleName()+nl
+                +"title:"+title+nl
                 +"price:"+price;
     }
 }
+
