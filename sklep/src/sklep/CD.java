@@ -1,4 +1,3 @@
-
 package sklep;
 
 
@@ -36,5 +35,7 @@ public class CD {
                 +"title: "+title+nl
                 +"price: "+price+nl;              
     }
+    
+    blsblsblaslbsfasdgfsdfghsdfhsdfhsdfhsfdh
 }
 
