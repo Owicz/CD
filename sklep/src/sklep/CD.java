@@ -2,6 +2,7 @@
 package sklep;
 
 
+
 public class CD {
     private String title;
     private double price;
@@ -32,8 +33,8 @@ public class CD {
     public String toString(){
         String nl = System.getProperty("line.separator");
         return getClass().getSimpleName()+nl
-                +"title:"+title+nl
-                +"price:"+price;
+                +"title: "+title+nl
+                +"price: "+price+nl;              
     }
 }
 
