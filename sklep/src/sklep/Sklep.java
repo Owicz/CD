@@ -66,6 +66,8 @@ public class Sklep {
         }
          //Klasa nowa w któj będzie lista (prywatna czy publiczna) jak udostępniać,
          // bedziemy robić wyszukiwanie (np jedno słowo po tytule) wyrażenia regularne <-ważne! poczytaj
-         //Zad dom: Jak przechowywana ArrryList (czy tablica czy lista)
+         //Zad dom: Jak przechowywana ArryList (czy tablica czy lista)
+//        opd jak lista
+//        Basically Java's ArrayList usually ensures enough space in an array for the elements to fit. If the array is not long enough then it provide more space for them: create new array with the double size of the original array and copies the elements into it.
     }
 }
